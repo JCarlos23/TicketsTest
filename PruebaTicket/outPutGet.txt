@@ -1,0 +1,14 @@
+ticketID, key, agentName, startDate, type, priority, company, completed, totalDuration, open, inProgress, waiting, internalValidation
+1, T-01, David Gomez, 16/08/2021 16:15:07, data problem, low,Sony, True, 7300, 300, 3000, 2000, 2000
+2, T-02, Juan Hernandez, 17/08/2021 16:15:07, data problem, medium,Warner, False, 3800, 300, 3000, 500, 2000
+3, T-03, Johanna Fuentes, 18/08/2021 16:15:07, Data Problem, 911,Nintendo, False, 6000, 400, 5000, 500, 100
+4, I-04, Cesar Molina, 20/08/2021 16:15:07, Integration Request, medium,Dominos Pizza, True, 19200, 100, 9000, 100, 10000
+5, T-45, Dominic Toretto, 23/08/2021 16:15:07, data problem, medium,U Travel, True, 5800, 300, 9000, 500, 3000
+6, T-56, Bryan Oconnor, 02/09/2021 16:15:07, Data Problem, 911,Diana, False, 10800, 400, 7000, 2000, 1400
+8, I-45, Evelyn Amaya, 23/07/2021 16:15:07, Integration Request, medium,Pizza Huttt, True, 19350, 100, 9000, 250, 10000
+9, IP-01, Alan Hernandez, 25/07/2021 14:15:07, data problem, Low,Skype, False, 4800, 300, 9000, 500, 3000
+7, T-104, Erica Fuentes, 27/09/2021 14:15:07, Data Issue, 911,GameBoy, False, 11400, 400, 5000, 5000, 1000
+50, I-500, Stephen King, 22/06/2021 10:15:07, Integration Request, medium,Digital Solutionss, True, 18250, 100, 8050, 100, 10000
+57, T-45, Helen Toretto, 01/07/2021 9:14:07, data problem, High,Raccoon City, True, 5855, 300, 8050, 500, 3000
+677, T-566, Sarah Connor, 02/09/2021 8:15:07, Data Problem, High,Tottis, False, 10815, 405, 7005, 2005, 1400
+88, I-456, Margarita Amaya, 23/07/2021 17:15:07, Integration Request, medium,Papa Jon, True, 19454, 204, 9000, 250, 10000

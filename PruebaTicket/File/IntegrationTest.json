@@ -1,0 +1,498 @@
+{
+  "Tickets": [
+	{
+      "id": 1,
+      "key": "T-01",
+      "fields":[
+        {
+            "agentId": 1,
+            "agentName": "David Gomez",
+            "startDate": "2021-08-16T16:15:07.3997326Z",
+    	    "type":"data problem",
+            "priority": "low",
+            "company": "Sony",
+            "completed": true,
+			"totalDuration":7300,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 300
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 3000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 2000
+              },
+              {
+                "id":4,
+                "name":"Internal Validation",
+                "duration": 2000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 2,
+      "key": "T-02",
+      "fields":[
+        {
+            "agentId": 2,
+            "agentName": "Juan Hernandez",
+            "startDate": "2021-08-17T16:15:07.3997326Z",
+    	    "type":"data problem",
+            "priority": "medium",
+            "company": "Warner",
+            "completed": false,
+			"totalDuration":3800,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 300
+              },
+              {
+                "id":2,
+                "name":"In progress",
+                "duration": 1000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 500
+              },
+              {
+                "id":4,
+                "name":"Internal Validation",
+                "duration": 2000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 3,
+      "key": "T-03",
+      "fields":[
+        {
+            "agentId": 3,
+            "agentName": "Johanna Fuentes",
+            "startDate": "2021-08-18T16:15:07.3997326Z",
+    	    "type":"Data Problem",
+            "priority": "911",
+            "company": "Nintendo",
+            "completed": false,
+			"totalDuration":6000,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 400
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 5000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 500
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 100
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 4,
+      "key": "I-04",
+      "fields":[
+        {
+            "agentId": 5,
+            "agentName": "Cesar Molina",
+            "startDate": "2021-08-20T16:15:07.3997326Z",
+    	    "type":"Integration Request",
+            "priority": "medium",
+            "company": "Dominos Pizza",
+            "completed": true,
+			"totalDuration":19200,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 100
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 9000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 100
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 10000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 5,
+      "key": "T-45",
+      "fields":[
+        {
+            "agentId": 6,
+            "agentName": "Dominic Toretto",
+            "startDate": "2021-08-23T16:15:07.3997326Z",
+    	    "type":"data problem",
+            "priority": "medium",
+            "company": "U Travel",
+            "completed": true,
+			"totalDuration":5800,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 300
+              },
+              {
+                "id":2,
+                "name":"In progress",
+                "duration": 2000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 500
+              },
+              {
+                "id":4,
+                "name":"Internal Validation",
+                "duration": 3000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 6,
+      "key": "T-56",
+      "fields":[
+        {
+            "agentId": 7,
+            "agentName": "Bryan Oconnor",
+            "startDate": "2021-09-02T16:15:07.3997326Z",
+    	    "type":"Data Problem",
+            "priority": "911",
+            "company": "Diana",
+            "completed": false,
+			"totalDuration":10800,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 400
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 7000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 2000
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 1400
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 8,
+      "key": "I-45",
+      "fields":[
+        {
+            "agentId": 8,
+            "agentName": "Evelyn Amaya",
+            "startDate": "2021-07-23T16:15:07.3997326Z",
+    	    "type":"Integration Request",
+            "priority": "medium",
+            "company": "Pizza Huttt",
+            "completed": true,
+			"totalDuration":19350,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 100
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 9000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 250
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 10000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 9,
+      "key": "IP-01",
+      "fields":[
+        {
+            "agentId": 9,
+            "agentName": "Alan Hernandez",
+            "startDate": "2021-07-25T14:15:07.3997326Z",
+    	    "type":"data problem",
+            "priority": "Low",
+            "company": "Skype",
+            "completed": false,
+			"totalDuration":4800,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 300
+              },
+              {
+                "id":2,
+                "name":"In progress",
+                "duration": 1000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 500
+              },
+              {
+                "id":4,
+                "name":"Internal Validation",
+                "duration": 3000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 7,
+      "key": "T-104",
+      "fields":[
+        {
+            "agentId": 10,
+            "agentName": "Erica Fuentes",
+            "startDate": "2021-09-27T14:15:07.3997326Z",
+    	    "type":"Data Issue",
+            "priority": "911",
+            "company": "GameBoy",
+            "completed": false,
+			"totalDuration":11400,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 400
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 5000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 5000
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 1000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 50,
+      "key": "I-500",
+      "fields":[
+        {
+            "agentId": 55,
+            "agentName": "Stephen King",
+            "startDate": "2021-06-22T10:15:07.3997326Z",
+    	    "type":"Integration Request",
+            "priority": "medium",
+            "company": "Digital Solutionss",
+            "completed": true,
+			"totalDuration":18250,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 100
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 8050
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 100
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 10000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 57,
+      "key": "T-45",
+      "fields":[
+        {
+            "agentId": 29,
+            "agentName": "Helen Toretto",
+            "startDate": "2021-07-01T09:14:07.3997326Z",
+    	    "type":"data problem",
+            "priority": "High",
+            "company": "Raccoon City",
+            "completed": true,
+			"totalDuration":5855,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 300
+              },
+              {
+                "id":2,
+                "name":"In progress",
+                "duration": 2055
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 500
+              },
+              {
+                "id":4,
+                "name":"Internal Validation",
+                "duration": 3000
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 677,
+      "key": "T-566",
+      "fields":[
+        {
+            "agentId": 333,
+            "agentName": "Sarah Connor",
+            "startDate": "2021-09-02T08:15:07.3997326Z",
+    	    "type":"Data Problem",
+            "priority": "High",
+            "company": "Tottis",
+            "completed": false,
+			"totalDuration":10815,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 405
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 7005
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 2005
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 1400
+              }
+              ]
+        }
+        ]
+    },
+	{
+      "id": 88,
+      "key": "I-456",
+      "fields":[
+        {
+            "agentId": 99,
+            "agentName": "Margarita Amaya",
+            "startDate": "2021-07-23T17:15:07.3997326Z",
+    	    "type":"Integration Request",
+            "priority": "medium",
+            "company": "Papa Jon",
+            "completed": true,
+			"totalDuration":19454,
+            "summaryStates": [
+              {
+                "id": 1,
+                "name": "Open",
+                "duration": 204
+              },
+              {
+                "id":2,
+                "name":"In Progress",
+                "duration": 9000
+              },
+              {
+                "id":3,
+                "name": "Waiting",
+                "duration": 250
+              },
+              {
+                "id":4,
+                "name": "Internal Validation",
+                "duration": 10000
+              }
+              ]
+        }
+        ]
+    }
+    ]
+}

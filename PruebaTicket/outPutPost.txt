@@ -1,0 +1,2 @@
+ticketID, key, agentName, startDate, type, priority, company, completed, totalDuration, open, inProgress, waiting, internalValidation
+1, T-01, David Gomez, 16/08/2021 16:15:07, data problem, low,Sony, True, 7300, 300, 3000, 2000, 2000

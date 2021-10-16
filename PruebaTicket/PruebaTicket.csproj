@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="File\IntegrationTest.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="File\IntegrationTest.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaTicket.Core\PruebaTicket.Core.csproj" />
+    <ProjectReference Include="..\PruebaTicket.Repository\PruebaTicket.Repository.csproj" />
+  </ItemGroup>
+
+
+</Project>

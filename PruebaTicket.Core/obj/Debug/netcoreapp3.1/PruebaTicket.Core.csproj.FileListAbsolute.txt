@@ -1,0 +1,10 @@
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\bin\Debug\netcoreapp3.1\PruebaTicket.Core.deps.json
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\bin\Debug\netcoreapp3.1\PruebaTicket.Core.dll
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\bin\Debug\netcoreapp3.1\PruebaTicket.Core.pdb
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\obj\Debug\netcoreapp3.1\PruebaTicket.Core.csproj.AssemblyReference.cache
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\obj\Debug\netcoreapp3.1\PruebaTicket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\obj\Debug\netcoreapp3.1\PruebaTicket.Core.AssemblyInfoInputs.cache
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\obj\Debug\netcoreapp3.1\PruebaTicket.Core.AssemblyInfo.cs
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\obj\Debug\netcoreapp3.1\PruebaTicket.Core.csproj.CoreCompileInputs.cache
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\obj\Debug\netcoreapp3.1\PruebaTicket.Core.dll
+C:\Users\panameno\source\repos\PruebaTicket\PruebaTicket.Core\obj\Debug\netcoreapp3.1\PruebaTicket.Core.pdb
